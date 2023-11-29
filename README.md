@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FCoder-Himanshu&psig=AOvVaw2VqaVT1aESQC9tdsIk4cvJ&ust=1701377421470000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMC62viK6oIDFQAAAAAdAAAAABAE)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm AJ</h1>
 <h3 align="center">A passionate Frontend Engineer from Nigeria</h3>
 
