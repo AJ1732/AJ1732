@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm AJ</h1>
 <h3 align="center">A passionate Frontend Engineer from Nigeria</h3>
 
