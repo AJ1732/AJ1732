@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **React & Data Structures**
 
-- 📫 How to reach me **ejemeniboi@outlook.com**
+- 📫 How to reach me **ejemeniboi@gmail.com**
 
 - 📄 Know about my experiences [https://1drv.ms/w/s!Ai4M4oEXJiFgtK55NRMyyZU9fEMc5g?e=sPGN9C](https://1drv.ms/w/s!Ai4M4oEXJiFgtK55NRMyyZU9fEMc5g?e=sPGN9C)
 
