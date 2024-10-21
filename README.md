@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **C, TypeScript, Redux,**
+- 🌱 I’m currently learning **Wen Animation and DSAs**
 
 - 👯 I’m looking to collaborate on **Frontend & Open Source Projects**
 
-- 🤝 I’m looking for help with **C & Redux**
+- 🤝 I’m looking for help with **DSAs**
 
 - 👨‍💻 All of my projects are available at [https://1732-portfolio.netlify.app/](https://1732-portfolio.netlify.app/)
 
