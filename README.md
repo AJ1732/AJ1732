@@ -6,8 +6,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-osezeleiboi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osezeleiboi)](https://www.linkedin.com/in/osezeleiboi) 
 [![Twitter Badge](https://img.shields.io/badge/-@EjemenIboi-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/EjemenIboi)](https://twitter.com/EjemenIboi)
 
-I'm a Software Engineer, who currently works as a Front End Engineer specialized in building pixel-perfect, responsive, user-centric interfaces with expertise in modern technologies, with a strong eye for detail and a passion for continuous improvement.. 
-I'm passionate about building pixrl-perfect applications and web animations.
+I'm a Software Engineer, who currently works as a Front End Engineer specialized in building pixel-perfect, responsive, user-centric interfaces with expertise in modern technologies, with a strong eye for detail and passion for continuous improvement.
+I'm passionate about building pixel-perfect applications and web animations.
 
 **Here's a quick summary about me**:
 
