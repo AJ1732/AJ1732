@@ -12,7 +12,7 @@ I'm passionate about building pixel-perfect applications and web animations.
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/Her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
+- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2025.
 - 🏐 Hobbies: I like Skateboarding and Volleyball.
 - 🌱 I’m currently learning Framer motion, GSAP, C, and DSA.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
