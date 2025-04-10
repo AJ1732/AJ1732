@@ -17,7 +17,7 @@ I'm passionate about building pixel-perfect applications and web animations.
 - 🌱 I’m currently learning Framer motion, GSAP, C, and DSA.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://docs.google.com/document/d/1B7TMkWdclIcqWjrjBiwMtOxU9ZVAaP_d8VTEOUcihxk/edit?usp=sharing) and contact me by emailing ejemeniboi@gmail.com.
+- 📫 You can [view my resume](https://docs.google.com/document/d/1bvpM6UPi0z1JiICTnb_SG-hJdFpQ6Ae7cq6Q3vku6b0/edit?tab=t.0) and contact me by emailing ejemeniboi@gmail.com.
 
 ---
 
