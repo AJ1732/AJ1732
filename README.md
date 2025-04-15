@@ -15,8 +15,8 @@ I'm passionate about building pixel-perfect applications and web animations.
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2025.
 - 🏐 Hobbies: I like Skateboarding and Volleyball.
 - 🌱 I’m currently learning Framer motion, GSAP, C, and DSA.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+- 😊 I’m looking for help with open source projects.
+- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer.
 - 📫 You can [view my resume](https://docs.google.com/document/d/1bvpM6UPi0z1JiICTnb_SG-hJdFpQ6Ae7cq6Q3vku6b0/edit?tab=t.0) and contact me by emailing ejemeniboi@gmail.com.
 
 ---
