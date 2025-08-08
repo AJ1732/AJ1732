@@ -24,4 +24,4 @@ I'm passionate about building pixel-perfect applications and web animations.
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=AJ1732&show_icons=true&include_all_commits=true&hide_border=true" alt="AJ1732's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJ1732&langs_count=8&layout=compact&hide_border=true" alt="AJ1732's GitHub stats" /> |
 | ------------- | ------------- |
 
-[![AJ1732's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJ1732&show_icons=true&theme=radical)](https://github.com/AJ1732/github-readme-stats)
+<!-- [![AJ1732's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJ1732&show_icons=true&theme=radical)](https://github.com/AJ1732/github-readme-stats) -->
