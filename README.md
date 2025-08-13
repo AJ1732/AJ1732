@@ -17,7 +17,7 @@ I'm passionate about building pixel-perfect applications and web animations.
 - 🌱 I’m currently learning AWS, Docker, DSA and animations using motion and GSAP. 
 - 😊 I’m looking for help with open source projects.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer.
-- 📫 You can [view my resume](https://docs.google.com/document/d/1bvpM6UPi0z1JiICTnb_SG-hJdFpQ6Ae7cq6Q3vku6b0/edit?tab=t.0) and contact me by emailing ejemeniboi@gmail.com.
+- 📫 You can [view my resume](https://docs.google.com/document/d/1RPOvUY-nhGuRMemXZ85URG_5HGHC6TbZkmsK9FbeJmY/edit?usp=sharing) and contact me by emailing ejemeniboi@gmail.com.
 
 ---
 
