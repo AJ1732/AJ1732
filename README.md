@@ -1,6 +1,6 @@
 # I'm AJ 👋🏾
 
-I'm a **Software Engineer**, who is lover of *Design* and *Engineering*.
+I'm a **Software Engineer**, who is a lover of *Design* and *Engineering*.
 
 Passionate about the details and experience.
 
